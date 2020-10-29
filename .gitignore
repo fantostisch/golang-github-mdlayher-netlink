@@ -1,2 +1,4 @@
 cmd/nlstress/nlstress
 netlink.test
+
+.pc
